@@ -6,4 +6,4 @@
 
 **GitHub Pages**
 
-*[Ссылка на проект] (https://margoshabanova.github.io/russian-travel/index.html)
+* [Ссылка на проект](https://margoshabanova.github.io/russian-travel/index.html)
