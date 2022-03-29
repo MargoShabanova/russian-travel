@@ -5,4 +5,5 @@
 * В проекте используются такие технологии как: флексбокс- и грид-верстка, реализована адаптивная верстка под разные расширения экранов, позиционирование элементов, файловая структура по БЭМ (Nested).
 
 **GitHub Pages**
-*[Ссылка на проект](https://margoshabanova.github.io/russian-travel/index.html)
+
+*[Ссылка на проект] (https://margoshabanova.github.io/russian-travel/index.html)
